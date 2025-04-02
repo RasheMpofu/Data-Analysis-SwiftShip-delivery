@@ -10,7 +10,9 @@ I collected synthetic data from Kaggle that simulates real-world stores. I perfo
 
 SwiftShop has maintained excellent customer satisfaction with an average delivery rating of **4.65/5 stars**. However, the average delivery time of **129.4 minutes** for a **26.7 km** route leads to increased fuel consumption, raising operational costs. Reducing delivery times could help cut fuel costs, improve efficiency, and maintain high customer satisfaction.
 
+
 ![chart](charts/Sheet2.png)
+
 
 ### Key Insights  
 
@@ -21,6 +23,7 @@ A closer analysis of SwiftShip’s data uncovers several key factors influencing
 Traffic is a significant factor impacting delivery times, with semi-urban areas experiencing the highest delays. Data indicates that there are no instances of low traffic in these areas. In fact, semi-urban delivery times average 286.6 minutes, nearly double the delivery times seen in metropolitan and urban areas. This highlights the opportunity to optimize routes in semi-urban regions to improve efficiency and reduce overall delivery time. 
 
 ![chart](charts/Sheet3.png)
+
 
 ### Hour of Day impacts Delivery time
 
