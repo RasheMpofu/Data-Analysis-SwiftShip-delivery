@@ -43,9 +43,9 @@ To optimize SwiftShip's operations, a predictive model was developed to forecast
 
 ###  Optimize Routing with Real-Time Traffic Data
 
-- **Implement traffic-aware routing systems**: Use real-time traffic data to avoid congested areas, especially in semi-urban regions where traffic bottlenecks tend to occur.
+- **Implement traffic-aware routing systems**: Use real-time traffic data to avoid congested areas, especially in semi-urban regions where traffic jams tend to occur.
   
-- **Use historical traffic patterns**: Leverage past traffic data to plan deliveries during less congested periods, optimizing routes for efficiency.
+- **Use historical traffic patterns**: Use past traffic data to plan deliveries during less congested periods, optimizing routes for efficiency.
 
 ###  Adjust Delivery Schedules by Time of Day
 
