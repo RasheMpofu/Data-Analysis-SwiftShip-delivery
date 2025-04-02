@@ -23,11 +23,13 @@ Traffic is a significant factor impacting delivery times, with semi-urban areas 
 ![chart](charts/Sheet3.png)
 
 
+
 ### Hour of Day impacts Delivery time
 
 The delivery time is influenced by the hour of the day, showing noticeable variation across different times. The shortest delivery times are typically observed between 8:00 AM and 10:59 AM, suggesting that deliveries made during this period are more efficient. However, delivery times reach their highest during the evening, specifically between 7:00 PM and 10:00 PM, indicating potential delays or inefficiencies during these hours.
 
 ![chart](charts/Sheet4.png)
+
 
 
 ### Weather-Related Challenges 
